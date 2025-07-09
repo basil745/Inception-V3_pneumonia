@@ -1,1 +1,1 @@
-# Inception-V3_pneumonia
+# Inception-V3_PneumoniaMNIST
